@@ -23,5 +23,5 @@ jobs:
           git commit -m "[skip actions] Update app version to $(npm pkg get version)" || true
 
       - name: Push changes
-        run: git push origin HEAD:${{ github.sha }}
+        run: git push
 
