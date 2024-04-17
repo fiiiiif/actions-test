@@ -1,1 +1,1 @@
-{"name":"actions-test","version":"1.0.2","description":"","main":"index.js","scripts":{"vb":"node update-version"},"keywords":[],"author":"","license":"ISC"}
+{"name":"actions-test","version":"1.0.3","description":"","main":"index.js","scripts":{"vb":"node update-version"},"keywords":[],"author":"","license":"ISC"}
